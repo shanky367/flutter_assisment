@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Bags shop",
+     "image": "https://media.istockphoto.com/photos/brand-new-interior-of-cloth-store-picture-id493565597",
+    "city": "Cuba city",
+    "like_count": "1.4k",
+    "dislike_count": "103",
+    "rating_count": "4.3"
+  },
+  {
+    "id": 2,
+    "title": "Mens Clothing",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "city": "Cuba city",
+    "like_count": "1.4k",
+    "dislike_count": "99",
+    "rating_count": "3.3"
+  },
+  {
+    "id": 3,
+    "title": "Premium Shirts",
+    "image": "https://media.istockphoto.com/photos/brand-new-interior-of-cloth-store-picture-id534667443",
+    "city": "Cuba city",
+    "like_count": "3.4k",
+    "dislike_count": "60",
+    "rating_count": "4.9"
+  },
+  {
+    "id": 4,
+    "title": "Party wears",
+    "image": "https://media.istockphoto.com/photos/interior-of-gift-store-picture-id500687991",
+    "city": "Cuba city",
+    "like_count": "1.4k",
+    "dislike_count": "60",
+    "rating_count": "2.3"
+  }
+]
+
+

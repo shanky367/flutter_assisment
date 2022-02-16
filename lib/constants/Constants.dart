@@ -1,0 +1,1 @@
+String kProductsDataHiveBox = 'products-box';
